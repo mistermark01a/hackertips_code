@@ -1,5 +1,6 @@
 // Generate a security audit of current DOM - paste into console
 // make sure to unblock popupblocker
+// Original LI post: https://lnkd.in/p/eXCGZRT6 (10/09/2026)
 // https://hackertips.today
 
 (() => {
